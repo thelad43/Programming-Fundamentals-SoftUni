@@ -1,15 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04.Beverage_Labels
+﻿namespace _04.Beverage_Labels
 {
-    class Program
+    using System;
+
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var name = Console.ReadLine();
+            var volume = double.Parse(Console.ReadLine());
+            var energyContentPer100ml = double.Parse(Console.ReadLine());
+            var sugarContentPer100ml = double.Parse(Console.ReadLine());
+
+            Console.WriteLine($"{volume}ml {name}:");
+            Console.WriteLine($"{(volume / 100 * energyContentPer100ml)}kcal, {volume / 100 * sugarContentPer100ml}g sugars");
         }
     }
 }
