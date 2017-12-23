@@ -1,15 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Debit_Card_Number
+﻿namespace _01.Debit_Card_Number
 {
-    class Program
+    using System;
+    using System.Globalization;
+
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var firstNumber = int.Parse(Console.ReadLine());
+            var secondNumber = int.Parse(Console.ReadLine());
+            var thirdNumber = int.Parse(Console.ReadLine());
+            var forthNumber = int.Parse(Console.ReadLine());
+
+            Console.Write($"{firstNumber.ToString("D4", CultureInfo.InvariantCulture)} ");
+            Console.Write($"{secondNumber.ToString("D4", CultureInfo.InvariantCulture)} ");
+            Console.Write($"{thirdNumber.ToString("D4", CultureInfo.InvariantCulture)} ");
+            Console.WriteLine($"{forthNumber.ToString("D4", CultureInfo.InvariantCulture)}");
         }
     }
 }
