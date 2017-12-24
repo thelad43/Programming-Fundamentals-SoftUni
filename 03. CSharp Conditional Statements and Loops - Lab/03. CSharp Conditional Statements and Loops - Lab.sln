@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Multiplication Table", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Multiplication Table 2.0", "10. Multiplication Table 2.0\10. Multiplication Table 2.0.csproj", "{E2C22EB6-9A7E-4D22-AE48-35F13B2C79AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Odd Number", "11. Odd Number\11. Odd Number.csproj", "{1BE88BA1-B02E-4EFC-8F45-95480E69A36D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E2C22EB6-9A7E-4D22-AE48-35F13B2C79AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2C22EB6-9A7E-4D22-AE48-35F13B2C79AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2C22EB6-9A7E-4D22-AE48-35F13B2C79AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE88BA1-B02E-4EFC-8F45-95480E69A36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE88BA1-B02E-4EFC-8F45-95480E69A36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE88BA1-B02E-4EFC-8F45-95480E69A36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE88BA1-B02E-4EFC-8F45-95480E69A36D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
