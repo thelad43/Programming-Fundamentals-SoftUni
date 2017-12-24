@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Theatre Promotion", "06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Divisible by 3", "07. Divisible by 3\07. Divisible by 3.csproj", "{32573F26-AACE-4A48-B492-FA1BD511FD03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Sum of Odd Numbers", "08. Sum of Odd Numbers\08. Sum of Odd Numbers.csproj", "{3C1A70DF-0DAB-4603-8F3B-260280977A8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{32573F26-AACE-4A48-B492-FA1BD511FD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32573F26-AACE-4A48-B492-FA1BD511FD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32573F26-AACE-4A48-B492-FA1BD511FD03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1A70DF-0DAB-4603-8F3B-260280977A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1A70DF-0DAB-4603-8F3B-260280977A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1A70DF-0DAB-4603-8F3B-260280977A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1A70DF-0DAB-4603-8F3B-260280977A8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
