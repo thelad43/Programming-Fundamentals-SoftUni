@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Test Numbers", "12. Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Game of Numbers", "13. Game of Numbers\13. Game of Numbers.csproj", "{D38DC274-276A-447F-96A6-261ECF519B30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Magic Letter", "14. Magic Letter\14. Magic Letter.csproj", "{5D47FCA7-ED2B-420F-8CDF-DBB6676E24C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D38DC274-276A-447F-96A6-261ECF519B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D38DC274-276A-447F-96A6-261ECF519B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D38DC274-276A-447F-96A6-261ECF519B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D47FCA7-ED2B-420F-8CDF-DBB6676E24C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D47FCA7-ED2B-420F-8CDF-DBB6676E24C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D47FCA7-ED2B-420F-8CDF-DBB6676E24C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D47FCA7-ED2B-420F-8CDF-DBB6676E24C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
