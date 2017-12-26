@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Interval of Numbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Cake Ingredients", "07. Cake Ingredients\07. Cake Ingredients.csproj", "{95EF2048-A1CD-47DD-8AE5-B74FCBBFBFC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Calories Counter", "08. Calories Counter\08. Calories Counter.csproj", "{53CD6488-22D8-4FE0-A15C-3AE9EF187BE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{95EF2048-A1CD-47DD-8AE5-B74FCBBFBFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95EF2048-A1CD-47DD-8AE5-B74FCBBFBFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95EF2048-A1CD-47DD-8AE5-B74FCBBFBFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CD6488-22D8-4FE0-A15C-3AE9EF187BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CD6488-22D8-4FE0-A15C-3AE9EF187BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CD6488-22D8-4FE0-A15C-3AE9EF187BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CD6488-22D8-4FE0-A15C-3AE9EF187BE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
