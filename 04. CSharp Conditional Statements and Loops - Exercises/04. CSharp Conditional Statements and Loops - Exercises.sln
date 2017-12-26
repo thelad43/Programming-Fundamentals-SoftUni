@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Hotel", "04. Hotel\04. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Word in Plural", "05. Word in Plural\05. Word in Plural.csproj", "{C5210517-5035-413D-873E-0595035A7335}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Interval of Numbers", "06. Interval of Numbers\06. Interval of Numbers.csproj", "{5CAAF103-FDDA-4D97-805C-952C992CD344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C5210517-5035-413D-873E-0595035A7335}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5210517-5035-413D-873E-0595035A7335}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5210517-5035-413D-873E-0595035A7335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAAF103-FDDA-4D97-805C-952C992CD344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAAF103-FDDA-4D97-805C-952C992CD344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAAF103-FDDA-4D97-805C-952C992CD344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAAF103-FDDA-4D97-805C-952C992CD344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
