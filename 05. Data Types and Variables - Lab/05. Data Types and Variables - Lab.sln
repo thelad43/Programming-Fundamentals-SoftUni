@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Centuries to Minutes", "01. Centuries to Minutes\01. Centuries to Minutes.csproj", "{BA55485F-5566-498A-B29A-E32766B66931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA55485F-5566-498A-B29A-E32766B66931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA55485F-5566-498A-B29A-E32766B66931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA55485F-5566-498A-B29A-E32766B66931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA55485F-5566-498A-B29A-E32766B66931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1978A816-5762-4CD3-A444-8B1C1BE3A9D9}
+	EndGlobalSection
+EndGlobal
