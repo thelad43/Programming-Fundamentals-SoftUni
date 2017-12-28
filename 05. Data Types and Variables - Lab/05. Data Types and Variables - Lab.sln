@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Centuries to Minutes", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Circle Area (Precision 12)", "02. Circle Area (Precision 12)\02. Circle Area (Precision 12).csproj", "{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Exact Sum of Real Numbers", "03. Exact Sum of Real Numbers\03. Exact Sum of Real Numbers.csproj", "{FCBB0E6B-0DC2-4D55-9213-62692B5CBEF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBB0E6B-0DC2-4D55-9213-62692B5CBEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBB0E6B-0DC2-4D55-9213-62692B5CBEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBB0E6B-0DC2-4D55-9213-62692B5CBEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBB0E6B-0DC2-4D55-9213-62692B5CBEF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
