@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Greeting", "07. Greetin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Refactor Volume of Pyramid", "08. Refactor Volume of Pyramid\08. Refactor Volume of Pyramid.csproj", "{EF939FA3-372C-4050-863F-F57346FFDFE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Refactor Special Numbers", "09. Refactor Special Numbers\09. Refactor Special Numbers.csproj", "{8FF6D6F3-DD48-4D20-8932-29A9799D3324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{EF939FA3-372C-4050-863F-F57346FFDFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF939FA3-372C-4050-863F-F57346FFDFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF939FA3-372C-4050-863F-F57346FFDFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF6D6F3-DD48-4D20-8932-29A9799D3324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF6D6F3-DD48-4D20-8932-29A9799D3324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF6D6F3-DD48-4D20-8932-29A9799D3324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF6D6F3-DD48-4D20-8932-29A9799D3324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
