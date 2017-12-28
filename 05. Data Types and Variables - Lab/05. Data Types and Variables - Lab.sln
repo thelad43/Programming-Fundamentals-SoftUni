@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Centuries to Minutes", "01. Centuries to Minutes\01. Centuries to Minutes.csproj", "{BA55485F-5566-498A-B29A-E32766B66931}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Circle Area (Precision 12)", "02. Circle Area (Precision 12)\02. Circle Area (Precision 12).csproj", "{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BA55485F-5566-498A-B29A-E32766B66931}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA55485F-5566-498A-B29A-E32766B66931}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA55485F-5566-498A-B29A-E32766B66931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BDBD9B-CB95-45FE-BB91-EB13CB29087C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
