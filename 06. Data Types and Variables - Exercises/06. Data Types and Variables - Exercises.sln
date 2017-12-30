@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Exchange Variable Value
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Employee Data", "08. Employee Data\08. Employee Data.csproj", "{2BE88988-946F-487D-A955-F667EF816D76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Reversed chars", "09. Reversed chars\09. Reversed chars.csproj", "{043C7BC2-32EA-49C4-A98C-1B6F12BB4585}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2BE88988-946F-487D-A955-F667EF816D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BE88988-946F-487D-A955-F667EF816D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BE88988-946F-487D-A955-F667EF816D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043C7BC2-32EA-49C4-A98C-1B6F12BB4585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043C7BC2-32EA-49C4-A98C-1B6F12BB4585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043C7BC2-32EA-49C4-A98C-1B6F12BB4585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043C7BC2-32EA-49C4-A98C-1B6F12BB4585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
