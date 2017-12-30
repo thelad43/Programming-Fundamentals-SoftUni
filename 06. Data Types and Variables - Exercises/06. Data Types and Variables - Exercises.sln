@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Strings And Objects", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Exchange Variable Values", "07. Exchange Variable Values\07. Exchange Variable Values.csproj", "{DF62615C-6A2C-4EED-85DC-8307881D0D87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Employee Data", "08. Employee Data\08. Employee Data.csproj", "{2BE88988-946F-487D-A955-F667EF816D76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DF62615C-6A2C-4EED-85DC-8307881D0D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF62615C-6A2C-4EED-85DC-8307881D0D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF62615C-6A2C-4EED-85DC-8307881D0D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE88988-946F-487D-A955-F667EF816D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE88988-946F-487D-A955-F667EF816D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE88988-946F-487D-A955-F667EF816D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE88988-946F-487D-A955-F667EF816D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
