@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Practice Chars And Stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Variable in Hex Format", "04. Variable in Hex Format\04. Variable in Hex Format.csproj", "{4DF4096E-5AB2-497C-A236-1D9362D412E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Boolean Variable", "05. Boolean Variable\05. Boolean Variable.csproj", "{6C1AD1B7-E838-43C1-A1FD-44EB834364A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4DF4096E-5AB2-497C-A236-1D9362D412E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF4096E-5AB2-497C-A236-1D9362D412E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DF4096E-5AB2-497C-A236-1D9362D412E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1AD1B7-E838-43C1-A1FD-44EB834364A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1AD1B7-E838-43C1-A1FD-44EB834364A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1AD1B7-E838-43C1-A1FD-44EB834364A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1AD1B7-E838-43C1-A1FD-44EB834364A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
