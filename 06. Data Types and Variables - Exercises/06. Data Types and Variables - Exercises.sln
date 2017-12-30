@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Boolean Variable", "05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Strings And Objects", "06. Strings And Objects\06. Strings And Objects.csproj", "{AA382828-8159-4CA8-8881-385F218D6201}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Exchange Variable Values", "07. Exchange Variable Values\07. Exchange Variable Values.csproj", "{DF62615C-6A2C-4EED-85DC-8307881D0D87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AA382828-8159-4CA8-8881-385F218D6201}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA382828-8159-4CA8-8881-385F218D6201}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA382828-8159-4CA8-8881-385F218D6201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF62615C-6A2C-4EED-85DC-8307881D0D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF62615C-6A2C-4EED-85DC-8307881D0D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF62615C-6A2C-4EED-85DC-8307881D0D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF62615C-6A2C-4EED-85DC-8307881D0D87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
