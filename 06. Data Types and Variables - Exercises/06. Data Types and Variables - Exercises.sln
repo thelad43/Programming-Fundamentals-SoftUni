@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Rectangle Properties", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Vowel or Digit", "13. Vowel or Digit\13. Vowel or Digit.csproj", "{742024A1-E21E-4721-ACEE-1F3486D8EEBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Integer to Hex and Binary", "14. Integer to Hex and Binary\14. Integer to Hex and Binary.csproj", "{C557CDB9-B478-478B-AFCA-96FC1297DDA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{742024A1-E21E-4721-ACEE-1F3486D8EEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{742024A1-E21E-4721-ACEE-1F3486D8EEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{742024A1-E21E-4721-ACEE-1F3486D8EEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C557CDB9-B478-478B-AFCA-96FC1297DDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C557CDB9-B478-478B-AFCA-96FC1297DDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C557CDB9-B478-478B-AFCA-96FC1297DDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C557CDB9-B478-478B-AFCA-96FC1297DDA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
