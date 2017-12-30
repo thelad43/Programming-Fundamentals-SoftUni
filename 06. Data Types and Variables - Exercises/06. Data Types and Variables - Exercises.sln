@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Practice Floating Point
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Practice Chars And Strings", "03. Practice Chars And Strings\03. Practice Chars And Strings.csproj", "{701F3633-3C1C-420B-B63D-C0CF67C3D35D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Variable in Hex Format", "04. Variable in Hex Format\04. Variable in Hex Format.csproj", "{4DF4096E-5AB2-497C-A236-1D9362D412E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{701F3633-3C1C-420B-B63D-C0CF67C3D35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{701F3633-3C1C-420B-B63D-C0CF67C3D35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{701F3633-3C1C-420B-B63D-C0CF67C3D35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF4096E-5AB2-497C-A236-1D9362D412E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF4096E-5AB2-497C-A236-1D9362D412E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF4096E-5AB2-497C-A236-1D9362D412E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF4096E-5AB2-497C-A236-1D9362D412E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
