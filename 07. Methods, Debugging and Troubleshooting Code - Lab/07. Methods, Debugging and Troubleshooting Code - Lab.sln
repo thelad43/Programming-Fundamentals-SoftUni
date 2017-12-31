@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sign of Integer Number"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Printing Triangle", "03. Printing Triangle\03. Printing Triangle.csproj", "{7ED1B222-BB6A-4EDF-A8E8-9B2F2FB03332}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Draw a Filled Square", "04. Draw a Filled Square\04. Draw a Filled Square.csproj", "{921FA247-2670-4524-870D-C24DF87429ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7ED1B222-BB6A-4EDF-A8E8-9B2F2FB03332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ED1B222-BB6A-4EDF-A8E8-9B2F2FB03332}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ED1B222-BB6A-4EDF-A8E8-9B2F2FB03332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921FA247-2670-4524-870D-C24DF87429ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921FA247-2670-4524-870D-C24DF87429ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921FA247-2670-4524-870D-C24DF87429ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921FA247-2670-4524-870D-C24DF87429ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
