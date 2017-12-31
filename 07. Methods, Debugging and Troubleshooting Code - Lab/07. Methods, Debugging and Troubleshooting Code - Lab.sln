@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Blank Receipt", "01. Blank Receipt\01. Blank Receipt.csproj", "{AAD8DF27-A790-4CC2-9551-AC5D12F238EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sign of Integer Number", "02. Sign of Integer Number\02. Sign of Integer Number.csproj", "{DEE79E74-CE1C-4D79-8C6B-289F0AA6B8E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AAD8DF27-A790-4CC2-9551-AC5D12F238EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAD8DF27-A790-4CC2-9551-AC5D12F238EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAD8DF27-A790-4CC2-9551-AC5D12F238EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE79E74-CE1C-4D79-8C6B-289F0AA6B8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE79E74-CE1C-4D79-8C6B-289F0AA6B8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE79E74-CE1C-4D79-8C6B-289F0AA6B8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE79E74-CE1C-4D79-8C6B-289F0AA6B8E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
