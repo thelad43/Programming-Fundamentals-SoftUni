@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Factorial Trailing Zero
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Substring", "15. Substring\15. Substring.csproj", "{94F8CBFB-E752-4F4C-AB10-B12411CB05AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Instruction Set", "16. Instruction Set\16. Instruction Set.csproj", "{BAB493F5-4A4A-465D-AAD6-2571C862083E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{94F8CBFB-E752-4F4C-AB10-B12411CB05AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F8CBFB-E752-4F4C-AB10-B12411CB05AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F8CBFB-E752-4F4C-AB10-B12411CB05AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB493F5-4A4A-465D-AAD6-2571C862083E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB493F5-4A4A-465D-AAD6-2571C862083E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB493F5-4A4A-465D-AAD6-2571C862083E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB493F5-4A4A-465D-AAD6-2571C862083E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
