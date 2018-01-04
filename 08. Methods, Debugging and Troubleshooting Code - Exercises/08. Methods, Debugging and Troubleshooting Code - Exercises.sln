@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Prime Checker", "06. Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Primes in Given Range", "07. Primes in Given Range\07. Primes in Given Range.csproj", "{11F64BDE-B1B4-41B7-B03C-5995EDF67BDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Center Point", "08. Center Point\08. Center Point.csproj", "{0A83B9DB-F439-4B5D-91F6-312D6ED40235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{11F64BDE-B1B4-41B7-B03C-5995EDF67BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11F64BDE-B1B4-41B7-B03C-5995EDF67BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11F64BDE-B1B4-41B7-B03C-5995EDF67BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A83B9DB-F439-4B5D-91F6-312D6ED40235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A83B9DB-F439-4B5D-91F6-312D6ED40235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A83B9DB-F439-4B5D-91F6-312D6ED40235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A83B9DB-F439-4B5D-91F6-312D6ED40235}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
