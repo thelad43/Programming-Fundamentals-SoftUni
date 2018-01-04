@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Master Number", "12. Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Factorial", "13. Factorial\13. Factorial.csproj", "{EBED1D94-BB11-40FA-A200-42844666916B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Factorial Trailing Zeroes", "14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes.csproj", "{4BDE918F-FE66-4A60-B5FA-D36C6D814ACA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{EBED1D94-BB11-40FA-A200-42844666916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBED1D94-BB11-40FA-A200-42844666916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBED1D94-BB11-40FA-A200-42844666916B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDE918F-FE66-4A60-B5FA-D36C6D814ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDE918F-FE66-4A60-B5FA-D36C6D814ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDE918F-FE66-4A60-B5FA-D36C6D814ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDE918F-FE66-4A60-B5FA-D36C6D814ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
