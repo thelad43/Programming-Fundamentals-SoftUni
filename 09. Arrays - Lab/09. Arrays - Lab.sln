@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reverse Array of String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum Arrays", "07. Sum Arrays\07. Sum Arrays.csproj", "{56A65953-0813-46C2-8ECC-5B1C0BB74E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Condense Array to Number", "08. Condense Array to Number\08. Condense Array to Number.csproj", "{093096BE-B8C5-49A7-A97C-636BD29030BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{56A65953-0813-46C2-8ECC-5B1C0BB74E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A65953-0813-46C2-8ECC-5B1C0BB74E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A65953-0813-46C2-8ECC-5B1C0BB74E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093096BE-B8C5-49A7-A97C-636BD29030BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093096BE-B8C5-49A7-A97C-636BD29030BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093096BE-B8C5-49A7-A97C-636BD29030BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093096BE-B8C5-49A7-A97C-636BD29030BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
