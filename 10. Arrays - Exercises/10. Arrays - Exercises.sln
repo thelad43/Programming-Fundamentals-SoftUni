@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Largest Common End", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rotate and Sum", "02. Rotate and Sum\02. Rotate and Sum.csproj", "{6913CD36-D514-44C7-A543-2AE0ED15A439}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Fold and Sum", "03. Fold and Sum\03. Fold and Sum.csproj", "{A44A7737-A517-4768-9100-383023D14AED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6913CD36-D514-44C7-A543-2AE0ED15A439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6913CD36-D514-44C7-A543-2AE0ED15A439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6913CD36-D514-44C7-A543-2AE0ED15A439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44A7737-A517-4768-9100-383023D14AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44A7737-A517-4768-9100-383023D14AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44A7737-A517-4768-9100-383023D14AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44A7737-A517-4768-9100-383023D14AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
