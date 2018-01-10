@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Split by Word Casing", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Sort Numbers", "05. Sort Numbers\05. Sort Numbers.csproj", "{6AB3621B-DFF5-423A-927B-F79A819A9C6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Square Numbers", "06. Square Numbers\06. Square Numbers.csproj", "{4C2E1675-1BB8-4B4E-B4DA-F49105BE8101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6AB3621B-DFF5-423A-927B-F79A819A9C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AB3621B-DFF5-423A-927B-F79A819A9C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AB3621B-DFF5-423A-927B-F79A819A9C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2E1675-1BB8-4B4E-B4DA-F49105BE8101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2E1675-1BB8-4B4E-B4DA-F49105BE8101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2E1675-1BB8-4B4E-B4DA-F49105BE8101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2E1675-1BB8-4B4E-B4DA-F49105BE8101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
