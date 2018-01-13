@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Max Sequence of Equal E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Change List", "02. Change List\02. Change List.csproj", "{EF3641C4-35CC-4EB7-97EC-3865D82BB8DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Search for a Number", "03. Search for a Number\03. Search for a Number.csproj", "{F1B26EFA-5478-4C90-B05C-D2C8552C03F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EF3641C4-35CC-4EB7-97EC-3865D82BB8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF3641C4-35CC-4EB7-97EC-3865D82BB8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF3641C4-35CC-4EB7-97EC-3865D82BB8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B26EFA-5478-4C90-B05C-D2C8552C03F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B26EFA-5478-4C90-B05C-D2C8552C03F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B26EFA-5478-4C90-B05C-D2C8552C03F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B26EFA-5478-4C90-B05C-D2C8552C03F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
