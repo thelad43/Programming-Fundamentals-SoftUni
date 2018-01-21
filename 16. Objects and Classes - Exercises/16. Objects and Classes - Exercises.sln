@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Andrey and Billiard", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Mentor Group", "08. Mentor Group\08. Mentor Group.csproj", "{B86A8476-E20A-4CB9-9110-315624C443E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Teamwork Projects", "09. Teamwork Projects\09. Teamwork Projects.csproj", "{0052ECC2-3BD7-4ACC-9680-AAA86D51FCB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B86A8476-E20A-4CB9-9110-315624C443E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86A8476-E20A-4CB9-9110-315624C443E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B86A8476-E20A-4CB9-9110-315624C443E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0052ECC2-3BD7-4ACC-9680-AAA86D51FCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0052ECC2-3BD7-4ACC-9680-AAA86D51FCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0052ECC2-3BD7-4ACC-9680-AAA86D51FCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0052ECC2-3BD7-4ACC-9680-AAA86D51FCB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
