@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Max Sequence of Equal E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. A Miner Task", "05. A Miner Task\05. A Miner Task.csproj", "{1EC69DA4-F58A-4DB5-BF59-A28DB5C31774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Fix Emails", "06. Fix Emails\06. Fix Emails.csproj", "{6D357446-8E4B-4725-8793-28457751A71A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1EC69DA4-F58A-4DB5-BF59-A28DB5C31774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EC69DA4-F58A-4DB5-BF59-A28DB5C31774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EC69DA4-F58A-4DB5-BF59-A28DB5C31774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D357446-8E4B-4725-8793-28457751A71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D357446-8E4B-4725-8793-28457751A71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D357446-8E4B-4725-8793-28457751A71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D357446-8E4B-4725-8793-28457751A71A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
