@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Most Frequent Number", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Index of Letters", "02. Index of Letters\02. Index of Letters.csproj", "{C4A91CD3-2396-4933-B0E4-647F18A90A09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Equal Sums", "03. Equal Sums\03. Equal Sums.csproj", "{934AB41D-C480-4887-B5EF-110D29DEA08B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C4A91CD3-2396-4933-B0E4-647F18A90A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A91CD3-2396-4933-B0E4-647F18A90A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4A91CD3-2396-4933-B0E4-647F18A90A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934AB41D-C480-4887-B5EF-110D29DEA08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934AB41D-C480-4887-B5EF-110D29DEA08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934AB41D-C480-4887-B5EF-110D29DEA08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934AB41D-C480-4887-B5EF-110D29DEA08B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
