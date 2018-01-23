@@ -1,0 +1,1 @@
+The numbers 2, 7 and 10 have the same maximal frequence (each occurs 3 times). The leftmost of them is 7.
