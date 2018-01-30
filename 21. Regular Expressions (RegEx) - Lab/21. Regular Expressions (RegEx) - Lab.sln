@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Match Full Name", "01. Match Full Name\01. Match Full Name.csproj", "{FC64BAF1-EB5B-45F8-AC3A-D07747B9F0A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Match Phone Number", "02. Match Phone Number\02. Match Phone Number.csproj", "{B302E8BB-C69C-48CF-A2C3-8D9EC62D898E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC64BAF1-EB5B-45F8-AC3A-D07747B9F0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC64BAF1-EB5B-45F8-AC3A-D07747B9F0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC64BAF1-EB5B-45F8-AC3A-D07747B9F0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B302E8BB-C69C-48CF-A2C3-8D9EC62D898E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B302E8BB-C69C-48CF-A2C3-8D9EC62D898E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B302E8BB-C69C-48CF-A2C3-8D9EC62D898E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B302E8BB-C69C-48CF-A2C3-8D9EC62D898E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
