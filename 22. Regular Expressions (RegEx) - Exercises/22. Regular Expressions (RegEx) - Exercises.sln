@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Key Replacer", "05. Key
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Valid Usernames", "06. Valid Usernames\06. Valid Usernames.csproj", "{5FA9CDAD-2CD5-4FA1-93BC-C8527732A7CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Query Mess", "07. Query Mess\07. Query Mess.csproj", "{342651A4-E4DB-4B6E-94BC-D075CCC24282}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5FA9CDAD-2CD5-4FA1-93BC-C8527732A7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA9CDAD-2CD5-4FA1-93BC-C8527732A7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA9CDAD-2CD5-4FA1-93BC-C8527732A7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342651A4-E4DB-4B6E-94BC-D075CCC24282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342651A4-E4DB-4B6E-94BC-D075CCC24282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342651A4-E4DB-4B6E-94BC-D075CCC24282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342651A4-E4DB-4B6E-94BC-D075CCC24282}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
