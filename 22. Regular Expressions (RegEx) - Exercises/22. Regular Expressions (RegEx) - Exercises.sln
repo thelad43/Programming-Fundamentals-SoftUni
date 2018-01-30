@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Extract Sentences by Ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Camera View", "03. Camera View\03. Camera View.csproj", "{40914AD3-7F23-45CA-BD10-A22150B6581F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Weather", "04. Weather\04. Weather.csproj", "{FED83B75-0568-4B51-A8EF-CFDC89E26AA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{40914AD3-7F23-45CA-BD10-A22150B6581F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40914AD3-7F23-45CA-BD10-A22150B6581F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40914AD3-7F23-45CA-BD10-A22150B6581F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED83B75-0568-4B51-A8EF-CFDC89E26AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED83B75-0568-4B51-A8EF-CFDC89E26AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED83B75-0568-4B51-A8EF-CFDC89E26AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED83B75-0568-4B51-A8EF-CFDC89E26AA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
